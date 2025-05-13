@@ -1,7 +1,7 @@
 ## Modeling the Immeasurable: A Scientific Method for Unpacking Abstract Human Concepts
 
-**White Paper v1.2.2**
-**Author:** Rogério Figurelli
+**White Paper v1.2.2**  
+**Author:** Rogério Figurelli  
 **Date:** May 12, 2025
 
 ## Executive Summary
@@ -140,13 +140,13 @@ An **Unsupervised Initialization** extension can auto-generate synthetic labels,
 
 ## 7 References
 
-\[1] M. Minsky, *The Emotion Machine*, Simon & Schuster, 2006.
-\[2] C. Osgood et al., *The Measurement of Meaning*, University of Illinois Press, 1957.
-\[3] D. Kahneman, *Thinking, Fast and Slow*, Farrar, Straus and Giroux, 2011.
-\[4] T. Metzinger, *The Ego Tunnel*, Basic Books, 2009.
-\[5] S. Dehaene, *Consciousness and the Brain*, Viking, 2014.
-\[6] J. Piaget, *The Psychology of Intelligence*, Routledge, 2001.
-\[7] J. Bruner, *Actual Minds, Possible Worlds*, Harvard University Press, 1986.
+\[1] M. Minsky, *The Emotion Machine*, Simon & Schuster, 2006.  
+\[2] C. Osgood et al., *The Measurement of Meaning*, University of Illinois Press, 1957.  
+\[3] D. Kahneman, *Thinking, Fast and Slow*, Farrar, Straus and Giroux, 2011.  
+\[4] T. Metzinger, *The Ego Tunnel*, Basic Books, 2009.  
+\[5] S. Dehaene, *Consciousness and the Brain*, Viking, 2014.  
+\[6] J. Piaget, *The Psychology of Intelligence*, Routledge, 2001.  
+\[7] J. Bruner, *Actual Minds, Possible Worlds*, Harvard University Press, 1986.  
 
 ## 8 License
 
