@@ -4,7 +4,7 @@
 **Author:** Rogério Figurelli  
 **Date:** May 12, 2025
 
-## Executive Summary
+## Executive Summary 
 
 Abstract human concepts—such as wisdom, love, justice, and consciousness—shape cultural norms, inform personal choices, and underpin ethical frameworks. Yet their semantic richness and inherent ambiguity, labeled “suitcase words” by Marvin Minsky \[1], have defied precise measurement and reproducible modeling. This white paper introduces a systematic methodology to transform intangible concepts into structured, data-driven models that are scientifically rigorous and ethically grounded.
 
