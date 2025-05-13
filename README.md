@@ -13,6 +13,7 @@ Our approach unfolds through five integrated phases: (1) Define an intuitive equ
 **Illustrative Case Study:** We apply this framework to “wisdom” in a personal finance context—deciding how to allocate one’s monthly salary $S$. We designed 30 bipolar questions spanning Intelligence (I) and Consciousness (C), with subsets: Memory, Reasoning, Creativity; Judgment, Empathy, Responsibility. Responses from three profiles (CFP expert E1, Behavioral Economist E2, End User E3) produced ten candidate equations evaluated on computed $I$ and $C$ scores. The exponential model:
 
 $$
+\Huge
 W = I^C
 $$
 
