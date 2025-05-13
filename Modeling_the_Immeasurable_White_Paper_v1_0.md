@@ -1,6 +1,6 @@
 ## Modeling the Immeasurable: A Scientific Method for Unpacking Abstract Human Concepts
 
-**White Paper v1.2.2**  
+**White Paper v1.2.4 (Last Version)**  
 **Author:** Rogério Figurelli  
 **Date:** May 12, 2025
 
